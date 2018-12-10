@@ -1,14 +1,14 @@
-#intro_to_web
+# intro_to_web
 
-##Purpose
+## Purpose
 Build a web app.
 
-##Concepts
--The relationship between a client and a server
--How HTTP is used to send information over the web
--RESTful APIs
--The request/response cycle
--Web templating with HTML/CSS
+## Concepts
+- The relationship between a client and a server
+- How HTTP is used to send information over the web
+- RESTful APIs
+- The request/response cycle
+- Web templating with HTML/CSS
 
 ##Skills
 -Debugging programs that use multiple languages
