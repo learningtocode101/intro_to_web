@@ -1,5 +1,6 @@
 require 'sinatra'
 
 get '/cat' do
-erb(:index)
+  @random_name = ["Amigo", "Oscar", "Viking"].shuffle.pop
+  erb(:index)
 end
