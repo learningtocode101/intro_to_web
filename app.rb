@@ -9,3 +9,8 @@ get '/named_cat' do
   @name = params[:name]
   erb(:index)
 end
+
+post '/named_cat' do
+  @name = params[:name]
+  erb(:index)
+end
